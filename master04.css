@@ -1,0 +1,94 @@
+*{margin: 0;padding: 0;text-decoration: none;}
+
+header{width: 100%;
+  height: 590px;
+  background-image: url('img/11_01_bg.png');
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  }
+
+.logo{width: 156px;
+      height: 156px;
+      position: absolute;
+      left: 46%;
+      bottom: 85%;}
+
+      header nav{
+      width: 920px;
+      height: 23px;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      margin-left: 10px;
+      margin-top: 490px;}
+
+      header nav ul{
+        display: flex;
+        justify-content: center;
+        align-items: center;}
+
+      header nav ul li{
+          height: 23px;
+          display: flex;
+          justify-content: center;
+          align-items: center;}
+
+      header nav ul li a{
+            color: #ffffff;
+            text-transform: uppercase;
+            font-family: 'Arial', sans-serif;
+            font-size: 1.2em;
+            letter-spacing: -0.05em;
+            transition: 0.1s;}
+
+      header nav ul li a:hover{
+          color: #545454;
+          opacity: 0.5;
+          font-size: 1.4em;
+          transition: 0.1s;}
+
+            .menu2{width: 190px;}
+            .menu3{width: 206px;}
+            .menu4{width: 194px;}
+            .menu5{width: 268px;}
+            .menu6{width: 119px;}
+
+      .lin1{width: 387px;}
+      .lin2{width: 387px;}
+
+.subcot1 {width:446px;
+         height: 214.85px;
+         margin-top: 34px;
+         margin-bottom: 271px;
+        margin-left: 39%;}
+
+.subcot2{width: 1362px;
+         height: 1706.4px;
+        margin-left: 14.5%;
+        margin-bottom: 183px;}
+
+.subcot3{width: 164px;
+         height: 50px;
+         margin-left: 45%;
+         margin-bottom: 150px;}
+
+.subcot4{width: 824px;
+        height: 431px;
+        margin-left: 28%;
+        margin-bottom: 183px;}
+
+
+
+    footer{
+        width: 100%;
+        height: 82px;
+        background-color: #545454;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        color: #ffffff;
+        font-family: 'Arial', sans-serif;
+        font-size: 0.9em;
+        text-align: center;
+        letter-spacing: -0.05em; }
